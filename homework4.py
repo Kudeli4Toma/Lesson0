@@ -1,0 +1,12 @@
+my_string = input("Ваше образование: ")
+name = input("Ваше образование: ")
+print(len(my_string))
+name = "Ура! Я - водитель!"
+print(name.upper())
+print(name.lower())
+print(name.replace(' ',''))
+print('Ура! Я - водитель!'.upper())
+print("Ура! Я - водитель!".lower())
+print("Ура! Я - водитель!".replace(' ', ''))
+print(name[0])
+print(name[-1])
